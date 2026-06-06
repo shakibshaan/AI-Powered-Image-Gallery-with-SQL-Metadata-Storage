@@ -233,8 +233,8 @@ MIT License — feel free to use, adapt, and build on this project.
 
 ## Author
 
-Built by **[Your Name]**
-Course: Digital Image Processing | [Your University] | 2024–2025
+Built by **[Shakib Sattar Shaan]**
+Course: Digital Image Processing | [西北工业大学] | 2024–2025
 
 ---
 
