@@ -10,7 +10,7 @@ This project is a full-stack AI-powered image gallery that combines **Digital Im
 
 Instead of relying on filenames or manual labels, the system extracts meaningful metadata directly from image content — colors, textures, shapes, detected objects, and embedded text — and stores it all in a structured database. Users can then search their image collection using visual characteristics.
 
-Built as a capstone project following completion of a **Digital Image Processing (DIP)** university course, every component of this system maps directly to concepts studied: preprocessing, segmentation, feature extraction, object detection, OCR, and database integration.
+Planned and Qued as a capstone project following completion of a **Digital Image Processing (DIP)** university course, every component of this system maps directly to concepts studied: preprocessing, segmentation, feature extraction, object detection, OCR, and database integration.
 
 ---
 
